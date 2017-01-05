@@ -22,5 +22,5 @@ def draw_square():
 	
     window.exitnoclick()
     
-    
+    # hello
 draw_square()
